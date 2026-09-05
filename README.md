@@ -15,7 +15,7 @@ Kit has also already created User entity with all crud routes
 
 Kit has 3 docker containers: **php, nginx** and **db** 
 
-![poster](poster.png)
+
 ## Installation
 
 Download the project<br>
